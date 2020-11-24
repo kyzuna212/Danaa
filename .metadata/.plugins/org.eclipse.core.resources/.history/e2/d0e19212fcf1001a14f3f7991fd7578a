@@ -1,0 +1,70 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>MNR CLINIC</title>
+<!-- 회원가입STEP02 페이지 -->
+<!-- 맨 밑 footer만 남기고 나머지는 안보이게 처리  -->
+<style type="text/css">
+#footer .footer_in .cont {
+	display: none;
+}
+</style>
+
+<c:import url="/WEB-INF/views/common/meta.jsp" />
+
+<!-- header -->
+<c:import url="/WEB-INF/views/common/header.jsp" />
+</head>
+<body>
+	<div id="wrap">
+		<div class="enroll_bar">
+
+			<div class="main-title">
+				<h2>
+					<img src="/danaa/resources/images/subtit_join.png" alt="회원가입">
+				</h2>
+				<br>
+				<p>회원으로 가입하시면 더욱 다양한 컨텐츠 및 서비스를 받아보실 수 있습니다.</p>
+			</div>
+			<!-- enroll menu -->
+			<div class="menu_box">
+				<ul class="clear">
+					<li class="on">
+						<dl>
+							<span>STEP 01</span>
+							<p>회원유형</p>
+						</dl>
+					</li>
+					<li class="off">
+						<dl>
+							<span>STEP 02</span>
+							<p>약관동의</p>
+						</dl>
+					</li>
+					<li class="off">
+						<dl>
+							<span>STEP 03</span>
+							<p>회원정보</p>
+						</dl>
+					</li>
+					<li class="off">
+						<dl>
+							<span>STEP 04</span>
+							<p>가입완료</p>
+						</dl>
+					</li>
+				</ul>
+			</div>
+				<div class="sub-title">
+		<h3>회원가입 유형을 선택해 주시기 바랍니다.</h3><br>
+	    <p>회원 유형에 따라 이용 가능한 서비스가 다를 수 있습니다.</p>
+	<hr>
+	</div>
+		</div>
+	
+	</div>
+</body>
+</html>

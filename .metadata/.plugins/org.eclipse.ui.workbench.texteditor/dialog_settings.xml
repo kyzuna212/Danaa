@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="비밀번호"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="비밀번호"/>
+			<item value="test2.do"/>
+			<item value="selectChkPhone"/>
+			<item value="popup2"/>
+			<item value="popup"/>
+			<item value="checkKey"/>
+			<item value="enrollSubmit2"/>
+			<item value="emailCheck.do"/>
+			<item value="sendSms.do"/>
+			<item value="suc"/>
+			<item value="chkPwdbc"/>
+			<item value="&lt;script&gt;"/>
+			<item value="sendsmspwd.do"/>
+			<item value="휴대폰"/>
+			<item value="휴대폰 중복"/>
+		</list>
+		<list key="replacehistory">
+			<item value="미앤란 클리닉"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="87"/>
+		<item key="DIALOG_Y_ORIGIN" value="345"/>
+		<item key="DIALOG_WIDTH" value="288"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>

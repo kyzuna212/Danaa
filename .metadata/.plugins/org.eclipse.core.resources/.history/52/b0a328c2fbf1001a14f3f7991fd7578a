@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>MNR CLINIC</title>
+
+<!-- 맨 밑 footer만 남기고 나머지는 안보이게 처리  -->
+<style type="text/css">
+#footer .footer_in .cont {
+	display: none;
+}
+</style>
+</head>
+<body>
+
+</body>
+</html>
